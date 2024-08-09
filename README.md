@@ -5,7 +5,8 @@ Diagrama del patron de diseño "Prototype"
 
 Diagrama del patron de diseño "Observer"
 
-![image](https://github.com/user-attachments/assets/7791f5b1-c231-4989-9db6-6ec5a5a14078)
+![image](https://github.com/user-attachments/assets/cb4ab25c-cc40-4b99-bf56-9d0cd2525f13)
+
 
 
 Diagrama del patron de diseño "Template Method"
