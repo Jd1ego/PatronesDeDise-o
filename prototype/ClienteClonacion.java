@@ -1,4 +1,4 @@
-public class Main {
+public class ClienteClonacion {
     public static void main(String[] args) {
         Espadachin originalEspadachin = new Espadachin("John", 5, 7,1,"Caballero");
 
