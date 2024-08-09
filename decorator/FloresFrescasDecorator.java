@@ -6,8 +6,8 @@ public class FloresFrescasDecorator extends HabitacionDecorator{
 
     @Override
     public String consultarDecoracion() {
-        return "habitacion decorada con flores frescas";
-        
+        return this.habitacionDecorada.consultarDecoracion() + ", con flores frescas";
+
     }
 
 }

@@ -5,7 +5,7 @@ public class ChocolateGourmetDecorator extends HabitacionDecorator{
     }
     @Override
     public String consultarDecoracion() {
-        return "habitacion con servicio de chocolate gourmet";
+        return this.habitacionDecorada.consultarDecoracion() + ", con chocolate gourmet";
         
     }
     
