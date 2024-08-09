@@ -1,6 +1,6 @@
 public abstract class HabitacionDecorator implements Habitacion{
 
-    private Habitacion habitacionDecorada;
+    public Habitacion habitacionDecorada;
 
     
     public HabitacionDecorator(Habitacion habitacionADecorar) {

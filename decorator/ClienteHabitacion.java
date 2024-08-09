@@ -1,4 +1,4 @@
-public class Main{
+public class ClienteHabitacion{
     public static void main(String[] args) {
 
         Habitacion habitacion = new HabitacionConcreta();
@@ -14,7 +14,7 @@ public class Main{
         
        // System.out.println(habitacion.consultarDecoracion());
 
-        habitacion = new ChocolateGourmetDecorator(habitacion);
+        //habitacion = new ChocolateGourmetDecorator(habitacion);
 
         
         System.out.println(habitacion.consultarDecoracion());

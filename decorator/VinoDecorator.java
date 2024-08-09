@@ -5,7 +5,7 @@ public class VinoDecorator extends  HabitacionDecorator{
     }
     @Override
     public String consultarDecoracion() {
-        return "habitacion con servicio de vino";
+        return this.habitacionDecorada.consultarDecoracion() + ", con vino";
         
     }
     
