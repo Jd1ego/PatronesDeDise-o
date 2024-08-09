@@ -5,9 +5,6 @@ import java.util.List;
 public class Dispositivo {
     List<Notificar_dispositivos> aparatos = new ArrayList();
 
-    public Dispositivo() {
-    }
-
     public void añadirDispositivo(Notificar_dispositivos d) {
         this.aparatos.add(d);
     }
